@@ -10,9 +10,11 @@ Unit 3 : Data Modeling | Lesson 3 : KNN and Classification
 | --- | --- | --- |
 | Lesson | K-Nearest Neighbors with Scikit-Learn | [Here](./knn_with_sklearn.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/knn_with_sklearn-solution.ipynb) |
-| Datasets | 2015 Season Statistics for ~500 NBA Players | [Here](./assets/dataset/NBA_players_2015.csv) |
-| Datasets | The Iris Dataset (Flowers) | [Here](./assets/dataset/iris.data) |
+| Datasets | 2015 Season Statistics for ~500 NBA Players | [Here](./data/NBA_players_2015.csv) |
+| Datasets | The Iris Dataset (Flowers) | [Here](./data/iris.data) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/slides/) |
+
+This lesson uses the Iris dataset and the NBA player statistics dataset. The Iris allows students to easily make their own rules-based model and is easy to visualize for KNN. The NBA dataset results in a very nice curve for choosing K.
 
 ---
 
@@ -26,19 +28,20 @@ Unit 3 : Data Modeling | Lesson 3 : KNN and Classification
 
 ## Lesson Outline
 
-- Learning Objectives
-- Overview of the iris dataset
+TOTAL (170 min)
+- Learning Objectives (5 min)
+- Overview of the iris dataset (10 min)
   - Terminology
-- Exercise: "Human learning" with iris data
-- Human learning on the iris dataset
-- K-nearest neighbors (KNN) classification
+- Exercise: "Human learning" with iris data (60 min)
+- Human learning on the iris dataset (10 min)
+- K-nearest neighbors (KNN) classification  (30 min)
   - Using the train/test split procedure (K=1)
-- Tuning a KNN model
+- Tuning a KNN model (30 min)
   - What happen if we view the accuracy of our training data?
   - Training error versus testing error
-- Standardizing features
+- Standardizing features (15 min)
   - Use StandardScaler to standardize our data.
-- Comparing KNN with other models
+- Comparing KNN with other models (10 min)
 
 ---
 

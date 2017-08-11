@@ -19,9 +19,9 @@ This lesson uses the Iris dataset and the NBA player statistics dataset. The Iri
 ---
 
 ## Learning Objectives
-- **Utilize** KNN model on iris dataset
-- **Implement** SKLearn KNN model
-- **Assess** fit KNN Model using SKLearn
+- Utilize the KNN model on the iris data set.
+- Implement scikit-learn's KNN model.
+- Assess the fit of a KNN Model using scikit-learn.
 
 
 ---
@@ -30,18 +30,18 @@ This lesson uses the Iris dataset and the NBA player statistics dataset. The Iri
 
 TOTAL (170 min)
 - Learning Objectives (5 min)
-- Overview of the iris dataset (10 min)
+- Overview of the Iris Data Set (10 min)
   - Terminology
-- Exercise: "Human learning" with iris data (60 min)
-- Human learning on the iris dataset (10 min)
-- K-nearest neighbors (KNN) classification  (30 min)
-  - Using the train/test split procedure (K=1)
-- Tuning a KNN model (30 min)
-  - What happen if we view the accuracy of our training data?
-  - Training error versus testing error
-- Standardizing features (15 min)
-  - Use StandardScaler to standardize our data.
-- Comparing KNN with other models (10 min)
+- Exercise: "Human Learning" With Iris Data (60 min)
+- Human Learning on the Iris Data Set (10 min)
+- K-Nearest Neighbors (KNN) Classification  (30 min)
+  - Using the Train/Test Split Procedure (K=1)
+- Tuning a KNN Model (30 min)
+  - What Happens If We View the Accuracy of our Training Data?
+  - Training Error Versus Testing Error
+- Standardizing Features (15 min)
+  - Use StandardScaler to Standardize our Data.
+- Comparing KNN With Other Models (10 min)
 
 ---
 

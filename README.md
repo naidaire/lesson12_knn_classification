@@ -14,6 +14,8 @@ Unit 3 : Data Modeling | Lesson 3 : KNN and Classification
 | Datasets | The Iris Dataset (Flowers) | [Here](./data/iris.data) |
 | Practice | Two activities to practice KNN | [Here](./practice/) |
 | Slides | Slide deck of material covered in lesson | [Here](./slides/) |
+
+
 This lesson uses the Iris dataset and the NBA player statistics dataset. The Iris allows students to easily make their own rules-based model and is easy to visualize for KNN. The NBA dataset results in a very nice curve for choosing K.
 
 ---

@@ -16,17 +16,28 @@
 | Slides | Slide deck of material covered in lesson | [Here](./slides/) |
 
 
-This lesson uses the Iris dataset and the NBA player statistics dataset. The Iris allows students to easily make their own rules-based model and is easy to visualize for KNN. The NBA dataset results in a very nice curve for choosing K.
+> This lesson uses the Iris dataset and the NBA player statistics dataset. The Iris dataset allows students to easily make their own rules-based model and is easy to visualize for KNN. The NBA dataset results in a very nice curve for choosing K.
 
 ---
 
 ## Learning Objectives
+
+After this lesson, students should be able to:
 - Utilize the KNN model on the iris data set.
 - Implement scikit-learn's KNN model.
 - Assess the fit of a KNN Model using scikit-learn.
 
-
 ---
+
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Load, explore, and manipulate data using Pandas
+- Create simple visualizations with Matplotlib
+- Interpret statistical information from box and scatter plots
+- Understand the statistical meaning of "error"
+
+----
 
 ## Lesson Outline
 
@@ -46,17 +57,6 @@ TOTAL (170 min)
 - Comparing KNN With Other Models (10 min)
 
 ---
-
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-
-- Load, explore, and manipulate data using Pandas
-- Create simple visualizations with Matplotlib
-- Interpret statistical information from box and scatter plots
-- Understand the statistical meaning of "error"
-
-----
 
 ## Additional Resources
 

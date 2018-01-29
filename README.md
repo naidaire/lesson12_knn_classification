@@ -68,14 +68,3 @@ For more information on this topic, check out the following resources:
 - [Detailed Intro to KNN](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/)
 - [Stanford's Machine Learning Course: KNN](http://cs231n.github.io/classification/#nn)
 
-
-
-
-
-
-
-
-
-
-
-

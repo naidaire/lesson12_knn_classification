@@ -35,13 +35,13 @@ Before this lesson(s), students should already be able to:
 - Load, explore, and manipulate data using Pandas
 - Create simple visualizations with Matplotlib
 - Interpret statistical information from box and scatter plots
-- Understand the statistical meaning of "error"
+- Describe the statistical meaning of an "error"
 
 ----
 
 ## Lesson Outline
 
-TOTAL (170 min)
+> TOTAL (170 min)
 - Learning Objectives (5 min)
 - Overview of the Iris Data Set (10 min)
   - Terminology

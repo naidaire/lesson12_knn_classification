@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) KNN-classification
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) KNN & Classification
 
-Unit 3 : Data Modeling | Lesson 3 : KNN and Classification
+> Unit 3: Required
 
 ---
 
